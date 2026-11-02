@@ -1,0 +1,25 @@
+# Prerequisites
+*.d
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+
+# Arduino / PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+*.orig
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.bak
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
