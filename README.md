@@ -7,7 +7,7 @@
 [![Conference](https://img.shields.io/badge/Presented-IEEE%20CS%20BDC%202025-00629B.svg)](https://ieeexplore.ieee.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-An intelligent, low-cost Internet of Things (IoT) safety system engineered to detect hazardous Liquefied Petroleum Gas (LPG), Propane ($\text{C}_3\text{H}_8$), and Butane ($\text{C}_4\text{H}_{10}$) leaks in residential, commercial, and industrial settings. Powered by a **NodeMCU (ESP8266-12E)** microcontroller and an **MQ-6 semiconductor gas sensor**, the system delivers immediate dual-mode alerts: local audiovisual alarms (piezo buzzer and red status LED) and cloud-synchronized real-time monitoring via the **Blynk IoT platform**, complete with automatic push notifications and emergency email dispatch.
+An intelligent, low-cost Internet of Things (IoT) safety system engineered to detect hazardous Liquefied Petroleum Gas (LPG), Propane ($\text{C}_3\text{H}_8$), and Butane ($\text{C}_4\text{H}_10$) leaks in residential, commercial, and industrial settings. Powered by a **NodeMCU (ESP8266-12E)** microcontroller and an **MQ-6 semiconductor gas sensor**, the system delivers immediate dual-mode alerts: local audiovisual alarms (piezo buzzer and red status LED) and cloud-synchronized real-time monitoring via the **Blynk IoT platform**, complete with automatic push notifications and emergency email dispatch.
 
 > **Research Citation:**  
 > Presented at the *IEEE Computer Society Bangladesh Chapter (IEEE CS BDC) Summer Symposium 2025* (Paper ID: 525).
